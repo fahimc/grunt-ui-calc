@@ -31,7 +31,7 @@ module.exports = function(grunt) {
       }
     },
     replaceItem: function (match,p1) {
-      return math.eval(p1);
+      return math.floor(math.eval(p1));
     }
   };
 
