@@ -1,7 +1,7 @@
 {
   "name": "grunt-ui-calc",
   "description": "Grunt plugin which replaces files to do math calculations like css calc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/fahimc/grunt-ui-calc",
   "author": {
     "name": "Fahim Chowdhury",
